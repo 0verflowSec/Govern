@@ -27,7 +27,7 @@ def banner():
     stdout.write('║                                 ║\n')
     stdout.write('╚═════════════════════════════════╝\n')
     print()
-banner()
+banner() # Ur skids if u change the banner...
 
 def exploit1(url):
     try:
